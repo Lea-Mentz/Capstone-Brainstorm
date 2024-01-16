@@ -20,5 +20,6 @@ zu speichern und nach Thema, Tag oder Ort filtern zu können. Faschisten haben k
 ##Feature
 
 Section für Aufklärung und Vernetzung zum Beispiel Dictionary 
+Search for high rate hashtags in socials
 
 
