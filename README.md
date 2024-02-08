@@ -5,7 +5,7 @@ Organisationsportal um Demos oder jegliche Aktivistische Aktivitäten in einem F
 zu speichern und nach Thema, Tag oder Ort filtern zu können. Faschisten haben keinen Zugriff, da explodiert leider das Handy!
 
 [Wireframe(https://excalidraw.com/)]
-![Mindmap zum Projekt](https://github.com/Lea-Mentz/Capstone-Brainstorm/tree/main#:~:text=Bildschirmfoto%202024%2D02%2D08%20um%2011.21.29.png)
+![Mindmap zum Projekt](Bildschirmfoto 2024-02-08 um 11.21.29.png)
 
 ##Main Features
 
