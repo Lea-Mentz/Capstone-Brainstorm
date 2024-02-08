@@ -5,7 +5,7 @@ Organisationsportal um Demos oder jegliche Aktivistische Aktivitäten in einem F
 zu speichern und nach Thema, Tag oder Ort filtern zu können. Faschisten haben keinen Zugriff, da explodiert leider das Handy!
 
 [Wireframe(https://excalidraw.com/)]
-![Mindmap zum Projekt](https://mind-map-online.de/m/65c4a45c2f06d)
+[Mindmap zum Projekt(https://mind-map-online.de/m/65c4a45c2f06d)]
 
 ##Main Features
 
