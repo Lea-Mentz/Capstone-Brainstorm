@@ -24,6 +24,8 @@ zu speichern und nach Thema, Tag oder Ort filtern zu können. Faschisten haben k
 - Section für Aufklärung und Vernetzung zum Beispiel Dictionary 
 - Search for high rate hashtags in socials
 - Erinnerungsfunktion für eigenen Kalender
+![Startseite Interface](Startseite.png)
+[Interface Entwurf(https://www.figma.com/file/V4RA7KYvMmaVx6o5FE6tqK/Untitled?type=design&node-id=1-2&mode=design&t=NSSLhc5HjhftftG4-0)]
 
 
 
